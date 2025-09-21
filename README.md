@@ -1,24 +1,27 @@
 <h1 align="center">Hi 👋, I'm Naim</h1>
 <h3 align="center">Engineer • Innovator • Dreamer ✨</h3>
 
-- 🔭 I’m currently working on **Data Projects**
-- 🌱 I’m currently learning **AWS, Azure, Cloud Computing**
-- 📫 How to reach me **ni3mafer@gmail.com**
-- 📄 Know about my experiences [My Resume](https://flowcv.com/resume/0s5t9jf1l6lt)
+---
+
+## 👨‍💻 About Me
+- 🔭 I’m currently working on **Data Projects**  
+- 🌱 I’m currently learning **AWS, Azure, Cloud Computing**  
+- 🎯 Goal: Become a **Data Engineer / AI Specialist**  
+- 📄 Know about my experiences [My Resume](https://flowcv.com/resume/0s5t9jf1l6lt)  
 - ⚡ Fun fact: **🤖 I started teaching AI to solve problems… now I’m teaching myself to solve AI’s problems.**
 
 ---
 
-<h3 align="left">🌍 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/naim fertas" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naim fertas" height="30" width="40" />
-</a>
-</p>
+## 📬 Contact Me  
+💡 *I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.*  
+
+Feel free to reach out through:  
+- 📧 Email: **ni3mafer@gmail.com**  
+- 💼 LinkedIn: [www.linkedin.com/in/naim-fertas-83727019b](https://www.linkedin.com/in/naim-fertas-83727019b)  
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+## 🛠️ Languages and Tools
 <p align="left">
   <!-- Cloud -->
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
@@ -46,7 +49,7 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="naim stats"/>
