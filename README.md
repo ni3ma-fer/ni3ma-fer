@@ -18,7 +18,7 @@
 
 ## About
 
-Data engineering student passionate about building scalable data solutions and AI-powered applications. Focused on cloud architecture, machine learning pipelines, and transforming raw data into actionable insights.
+Data engineering passionate about building scalable data solutions and AI-powered applications. Focused on cloud architecture, machine learning pipelines, and transforming raw data into actionable insights.
 
 - 🎯 Goal — Data Engineer / AI Specialist
 - 🌱 Learning — AWS · Azure · Apache Spark · Big Data
