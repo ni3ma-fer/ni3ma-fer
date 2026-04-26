@@ -1,25 +1,16 @@
 <div align="center">
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Naim%20Fertas&fontSize=52&fontColor=58a6ff&fontAlignY=38&desc=Data%20Engineer%20%C2%B7%20AI%20Enthusiast&descAlignY=58&descSize=18&descFontColor=8b949e&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8f4fd,50:dbeafe,100:bfdbfe&height=200&section=header&text=Naim%20Fertas&fontSize=52&fontColor=1d4ed8&fontAlignY=38&desc=Data%20Engineer%20%C2%B7%20AI%20Enthusiast&descAlignY=58&descSize=18&descFontColor=6b7280&animation=fadeIn" alt="Header">
+</picture>
 
-![Open to opportunities](https://img.shields.io/badge/●_Open_to_opportunities-6366f1?style=flat-square&labelColor=transparent&color=6366f1&logoColor=white)
-
-# Naim **Fertas**
-
-**Data Engineer · AI Enthusiast · Cloud**
-
-![Python](https://img.shields.io/badge/Python-6366f1?style=flat-square&logoColor=white&logo=python)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6366f1?style=flat-square)
-![Cloud](https://img.shields.io/badge/Cloud-6366f1?style=flat-square)
-![AWS · Azure · GCP](https://img.shields.io/badge/AWS%20·%20Azure%20·%20GCP-555?style=flat-square)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-555?style=flat-square)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1500&color=378ADD&center=true&vCenter=true&width=480&lines=Building+scalable+data+pipelines;Cloud+%7C+Python+%7C+Machine+Learning;Open+to+new+opportunities)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naim-fertas-83727019b)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ni3mafer@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-4A4A4A?style=flat-square&logo=readthedocs&logoColor=white)](https://flowcv.com/resume/0s5t9jf1l6lt)
-[![Profile Views](https://komarev.com/ghpvc/?username=ni3ma-fer&style=flat-square&color=6366f1&label=views)](https://github.com/ni3ma-fer)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=1500&color=6366f1&center=true&vCenter=true&width=480&lines=Building+scalable+data+pipelines;Cloud+%7C+Python+%7C+Machine+Learning;Always+learning+%E2%80%94+always+building)](https://git.io/typing-svg)
+[![Profile Views](https://komarev.com/ghpvc/?username=ni3ma-fer&style=flat-square&color=378ADD&label=views)](https://github.com/ni3ma-fer)
 
 </div>
 
@@ -79,5 +70,10 @@ Data engineering student passionate about building scalable data solutions and A
 <div align="center">
 
 ![Snake](https://raw.githubusercontent.com/ni3ma-fer/ni3ma-fer/output/github-contribution-grid-snake-dark.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bfdbfe,50:dbeafe,100:e8f4fd&height=100&section=footer&animation=fadeIn" alt="Footer">
+</picture>
 
 </div>
